@@ -1,4 +1,4 @@
-# chalenge-02
+# Challenge-02
 This is a new repository for my second challenge in class.
 
 ## User Story
@@ -22,3 +22,18 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+
+## Building this Web Page
+
+Upon building this webpage I was able to push some of my knowledge to the limit with the enormous amount of material I learned in 
+such a short amount of time. This is a test of my skills so far.
+
+I struggled with the footer and some of the images below. 
+
+I also had some difficulties with the viewport sizing and proper alignment. 
+
+This is all a work in progress so far. 
+
+I plan to clean this up and re-submit it for more points if allowed. 
+
+I will seek tutoring to aid me in this. 
