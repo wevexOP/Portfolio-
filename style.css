@@ -5,7 +5,7 @@
 }
 
 .banner {
-    width: 100%;
+    max-width: inherit;
     height: 100vh;
     background-image: url(assets/green-plant-background.png);
     background-repeat: no-repeat, repeat; /* You must set a specified height */
@@ -13,6 +13,7 @@
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
     margin-bottom: -490px;
+    position: relative;
 }
 
 .navbar {
@@ -32,6 +33,7 @@
     background-color:grey;
     font-style: italic;
     background-size: 150px, 150px;
+    align-items: center;
     
 
 }
@@ -70,9 +72,12 @@
 }
 
 .subtitle h2 {
-    display: block;
-    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    text-align: center;
     float: right;
+    position: relative;
     font-family: sans-serif;
     font-style: italic;
     color: aliceblue;
@@ -152,6 +157,8 @@
     margin-left: -550px;
     top: 0;
     margin-top: 700px;
+    height: 50vh;
+    width: 10vw;
 }
 
 .section div {
